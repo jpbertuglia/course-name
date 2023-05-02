@@ -4,5 +4,8 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
 $ git init
-foto de gato
+quien es el peor jungla de lol?
 ```
+- [x] Nasta
+- [ ] Jesnen
+- [ ] Bertuglia
